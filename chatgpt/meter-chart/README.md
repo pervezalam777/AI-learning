@@ -1,8 +1,6 @@
 # D3 meter chat via chatGPT
 Have asked the following questions in order generate proper working meter chart but there are some issues it did not work well. It is like half job done only
 
-
-- `What is the best library for Node backend development?`
 - `How can I create a meter chart with D3?`
 - `Can you improve the UI with some color change like going from red to green in the meter chart?`
 - `Can you do this with animation?`
